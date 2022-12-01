@@ -1,5 +1,6 @@
 # Predicting App Prices
 Authors: Joshua Bender & Kyle McCullough
+
 Instructions:
 1. First, download and unzip the file PlayStore.zip from the GitHub files.
 2. Then, Place the "PlayStore" folder in the root of your Google Drive.
